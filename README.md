@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**gusouza2024/gusouza2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui estão algumas ideias para você começar:
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou a procura de um trabalho
+- 🌱 Atualmente estou estudndo 
+- 👯 Procuro colaborar em ...
+- 🤔 Estou procurando ajuda com 
+- 💬 Pergunte-me sobre jogos, desenhos e animes
+- 📫 Como entrar em contato comigo: cruz.souza.gustavo@escola.pr.gov.br
+- 😄 Pronomes: ele/dele
+- ⚡ Curiosidades: Gosto do Shadow 
+-🔴 aqui uma historia resumida do [SHADOW](https://youtu.be/yg7Oxq0V0bw?si=xX2wJT1VQR_V_pLu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://media1.tenor.com/m/XrBDGNKy2bYAAAAd/gojo-gojo-satoru.gif)
+
+-🔵Prefiro Gojo assim😑
